@@ -1,0 +1,23 @@
+{
+  "name": "@atlantis-tools/package-quickstart",
+  "version": "1.0.0",
+  "description": "quickstart packages tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlantis-tools/package-quickstart.git"
+  },
+  "keywords": [
+    "quickstart",
+    "tutorial"
+  ],
+  "author": "Hugh Byrne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlantis-tools/package-quickstart/issues"
+  },
+  "homepage": "https://github.com/atlantis-tools/package-quickstart#readme"
+}
