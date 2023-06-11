@@ -20,4 +20,7 @@
     "url": "https://github.com/atlantis-tools/package-quickstart/issues"
   },
   "homepage": "https://github.com/atlantis-tools/package-quickstart#readme"
+  "publishConfig": {
+   "@atlantis-tools:registry": "https://npm.pkg.github.com"
+ }
 }
